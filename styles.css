@@ -1,0 +1,8 @@
+.pie_color{
+    background: rgb(27,53,66);
+    background: linear-gradient(90deg, rgba(27,53,66,1) 0%, rgba(30,83,114,1) 100%);
+}
+
+.boton_color{
+    background-color: rgb(150, 201, 62);
+}
